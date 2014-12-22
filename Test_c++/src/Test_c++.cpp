@@ -12,7 +12,7 @@
 using namespace std;
 
 int main(void) {
-	cout << "OM Tat Sat!!!" << endl;
+	cout << "Hari OM Tat Sat!!!" << endl;
 	cout << "Om Shanti Shanti Shanti" << endl;
 	return EXIT_SUCCESS;
 }
